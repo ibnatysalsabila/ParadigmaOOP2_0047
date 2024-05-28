@@ -9,7 +9,7 @@ public:
 	//private member
 	void setXY(string a, string b) {
 		x = a;
-		x = b;
+		y = b;
 	}
 	//menampilkan nilai
 	void display() {
