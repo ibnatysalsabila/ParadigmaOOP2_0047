@@ -1,1 +1,3 @@
-ParadigmaOOP2_004
+#include <iostream>
+using namespace std;
+
